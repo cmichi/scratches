@@ -1,6 +1,6 @@
 # Readme 
 
-Please see [http://micha.elmueller.net/2014/04/broken-interfaces/](http://micha.elmueller.net/2014/04/broken-interfaces/)
+Please see [http://micha.elmueller.net/2014/04/scratches/](http://micha.elmueller.net/2014/04/scratches/)
 for a description of this project.
 
 
