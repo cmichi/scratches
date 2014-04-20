@@ -28,7 +28,8 @@ And then optionally:
 	These work is licensed under a Creative Commons Attribution 4.0 
 	International license: http://creativecommons.org/licenses/by/4.0/.
 
-When possible attribute as *Michael Müller* with a link to the blog post at 
-[http://micha.elmueller.net/2014/04/scratches/](http://micha.elmueller.net/2014/04/scratches/).
+When possible attribute as *Michael Müller* with a link to the blog post at [http://micha.elmueller.net/2014/04/scratches/]
+(http://micha.elmueller.net/2014/04/scratches/).
+
 I am always happy to hear about stuff getting used, so don't be shy on
 writing a mail about your use case :-).
